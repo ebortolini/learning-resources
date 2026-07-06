@@ -14,12 +14,11 @@
  - [.NET Data Community Standup: 8 Real-World Query Anti‑Patterns (and How to Fix Them)](https://www.youtube.com/watch?v=jlR6KFuFODI)
 
  ## Interview
-
  - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
  - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
-## System Design
  - [Interviews](https://github.com/kdn251/interviews)
 
+## System Design
  - [System Design academy](https://github.com/systemdesign42/system-design-academy) 
 
 
