@@ -2,6 +2,7 @@
 
 ## AI
  - [Awesome GitHub Copilot](https://github.com/github/awesome-copilot/tree/main) - Custom Agents and prompts for Github copilot
+ - [Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts&t=16s)
 
 ## Algorithms
 
@@ -17,6 +18,7 @@
  - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
  - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 ## System Design
+ - [Interviews](https://github.com/kdn251/interviews)
 
  - [System Design academy](https://github.com/systemdesign42/system-design-academy) 
 
